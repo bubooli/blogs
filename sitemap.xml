@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://xxxxx.com/</loc>
     <lastmod>2021-05-10T13:44:03+08:00</lastmod>
   </url><url>
@@ -155,5 +156,12 @@
     <loc>https://xxxxx.com/search/</loc>
   </url><url>
     <loc>https://xxxxx.com/top/</loc>
+=======
+    <loc>https://bubooli.github.io/categories/</loc>
+  </url><url>
+    <loc>https://bubooli.github.io/</loc>
+  </url><url>
+    <loc>https://bubooli.github.io/tags/</loc>
+>>>>>>> parent of 995e8a9 (init)
   </url>
 </urlset>
