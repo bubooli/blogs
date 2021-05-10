@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tops on Catcher Blog</title>
+    <title>Tops on MrLi Blog</title>
     <link>https://bubooli.github.io/blogs/top/</link>
-    <description>Recent content in Tops on Catcher Blog</description>
+    <description>Recent content in Tops on MrLi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bubooli.github.io/blogs/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language><atom:link href="https://bubooli.github.io/blogs/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://bubooli.github.io/blogs/top/about/</link>

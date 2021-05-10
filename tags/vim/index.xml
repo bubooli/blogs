@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vim on Catcher Blog</title>
+    <title>vim on MrLi Blog</title>
     <link>https://bubooli.github.io/blogs/tags/vim/</link>
-    <description>Recent content in Vim on Catcher Blog</description>
+    <description>Recent content in vim on MrLi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 11:00:00 +0000</lastBuildDate><atom:link href="https://bubooli.github.io/blogs/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bubooli.github.io/blogs/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vim Tips</title>
-      <link>https://bubooli.github.io/blogs/2018/02/09/vim-tips/</link>
-      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      <title>Istio v1aplha3 routing API介绍(译文）</title>
+      <link>https://bubooli.github.io/blogs/2019/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bubooli.github.io/blogs/2018/02/09/vim-tips/</guid>
-      <description>&lt;h2 id=&#34;vim-graphical-cheat-sheet&#34;&gt;vim graphical cheat sheet&lt;/h2&gt;
-&lt;p&gt;
-  &lt;img src=&#34;https://bubooli.github.io/blogs/https://img.zhaohuabing.com/in-post/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34;&gt;
-
-&lt;/p&gt;</description>
+      <guid>https://bubooli.github.io/blogs/2019/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>kubernets部署手册v1.20版</title>
+      <link>https://bubooli.github.io/blogs/2021/05/10/kubernets-deploy/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubooli.github.io/blogs/2021/05/10/kubernets-deploy/</guid>
+      <description>一、前置知识点 1.1 生产环境可部署Kubernetes集群的两种方式 目前生产部署Kubernetes集群主要有两种方式： • kubeadm Kubeadm是一个</description>
     </item>
     
   </channel>
