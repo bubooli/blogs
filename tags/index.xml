@@ -1,154 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Tags on Catcher Blog</title>
-    <link>https://xxxxx.com/tags/</link>
+    <link>https://bubooli.github.io/blogs/tags/</link>
     <description>Recent content in Tags on Catcher Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://xxxxx.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bubooli.github.io/blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istio</title>
-      <link>https://xxxxx.com/tags/istio/</link>
+      <link>https://bubooli.github.io/blogs/tags/istio/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/istio/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>https://xxxxx.com/tags/ubuntu/</link>
+      <link>https://bubooli.github.io/blogs/tags/ubuntu/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/ubuntu/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>https://xxxxx.com/tags/microservice/</link>
+      <link>https://bubooli.github.io/blogs/tags/microservice/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/microservice/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://xxxxx.com/tags/security/</link>
+      <link>https://bubooli.github.io/blogs/tags/security/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/security/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>https://xxxxx.com/tags/kubernetes/</link>
+      <link>https://bubooli.github.io/blogs/tags/kubernetes/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/kubernetes/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bitcoin</title>
-      <link>https://xxxxx.com/tags/bitcoin/</link>
+      <link>https://bubooli.github.io/blogs/tags/bitcoin/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/bitcoin/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll:q</title>
-      <link>https://xxxxx.com/tags/jekyllq/</link>
+      <link>https://bubooli.github.io/blogs/tags/jekyllq/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/jekyllq/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/jekyllq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://xxxxx.com/tags/travel/</link>
+      <link>https://bubooli.github.io/blogs/tags/travel/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/travel/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm</title>
-      <link>https://xxxxx.com/tags/helm/</link>
+      <link>https://bubooli.github.io/blogs/tags/helm/</link>
       <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/helm/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API Gateway</title>
-      <link>https://xxxxx.com/tags/api-gateway/</link>
+      <link>https://bubooli.github.io/blogs/tags/api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/api-gateway/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service Mesh</title>
-      <link>https://xxxxx.com/tags/service-mesh/</link>
+      <link>https://bubooli.github.io/blogs/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/service-mesh/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://xxxxx.com/tags/docker/</link>
+      <link>https://bubooli.github.io/blogs/tags/docker/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/docker/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://xxxxx.com/tags/tips/</link>
+      <link>https://bubooli.github.io/blogs/tags/tips/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/tips/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>https://xxxxx.com/tags/vim/</link>
+      <link>https://bubooli.github.io/blogs/tags/vim/</link>
       <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/vim/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nginmesh</title>
-      <link>https://xxxxx.com/tags/nginmesh/</link>
+      <link>https://bubooli.github.io/blogs/tags/nginmesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/tags/nginmesh/</guid>
+      <guid>https://bubooli.github.io/blogs/tags/nginmesh/</guid>
       <description></description>
     </item>
     
-=======
-    <title>Tags on My New Hugo Site</title>
-    <link>https://bubooli.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bubooli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> parent of 995e8a9 (init)
   </channel>
 </rss>

@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Categories on Catcher Blog</title>
-    <link>https://xxxxx.com/categories/</link>
+    <link>https://bubooli.github.io/blogs/categories/</link>
     <description>Recent content in Categories on Catcher Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://xxxxx.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bubooli.github.io/blogs/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://xxxxx.com/categories/tech/</link>
+      <link>https://bubooli.github.io/blogs/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/categories/tech/</guid>
+      <guid>https://bubooli.github.io/blogs/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://xxxxx.com/categories/tips/</link>
+      <link>https://bubooli.github.io/blogs/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/categories/tips/</guid>
+      <guid>https://bubooli.github.io/blogs/categories/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note</title>
-      <link>https://xxxxx.com/categories/note/</link>
+      <link>https://bubooli.github.io/blogs/categories/note/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/categories/note/</guid>
+      <guid>https://bubooli.github.io/blogs/categories/note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://xxxxx.com/categories/life/</link>
+      <link>https://bubooli.github.io/blogs/categories/life/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xxxxx.com/categories/life/</guid>
+      <guid>https://bubooli.github.io/blogs/categories/life/</guid>
       <description></description>
     </item>
     
-=======
-    <title>Categories on My New Hugo Site</title>
-    <link>https://bubooli.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bubooli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> parent of 995e8a9 (init)
   </channel>
 </rss>
