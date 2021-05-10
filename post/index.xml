@@ -265,5 +265,14 @@ export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
       <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://bubooli.github.io/blogs/post/2021-05-10-kubernets%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8Cv1.20%E7%89%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bubooli.github.io/blogs/post/2021-05-10-kubernets%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8Cv1.20%E7%89%88/</guid>
+      <description>一、前置知识点 1.1 生产环境可部署Kubernetes集群的两种方式 目前生产部署Kubernetes集群主要有两种方式： • kubeadm Kubeadm是一个</description>
+    </item>
+    
   </channel>
 </rss>
